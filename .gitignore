@@ -1,0 +1,8 @@
+*-credentials.txt
+**/.terraform/*
+**/.terraform.lock.hcl
+**/plan.out
+**/*-key*
+**/*.tfstate*
+**/var
+**/*.txt
